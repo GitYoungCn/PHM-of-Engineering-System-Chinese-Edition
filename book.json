@@ -4,8 +4,8 @@
     ],
     "pluginsConfig": {
         "donate": {
-            "wechat": "https://zhangjikai.com/resource/weixin.png",
-            "alipay": "https://zhangjikai.com/resource/alipay.png",
+            "wechat": "https://github.com/GitYoungCn/Hello-World/blob/master/wechatpay.png?raw=true",
+            "alipay": "https://github.com/GitYoungCn/Hello-World/blob/master/alipay.png?raw=true",
             "title": "",
             "button": "赏",
             "alipayText": "支付宝打赏",
